@@ -184,7 +184,7 @@ items:
     Console.WriteLine(d);
     ```
 
-    Notice that the answer includes the decimal portion of the quotient. Try a slightly
+    Notice that the answer includes the decimal portion of the [quotient](https://en.wikipedia.org/wiki/Quotient). Try a slightly
     more complicated expression with doubles:
 
     ```csharp
