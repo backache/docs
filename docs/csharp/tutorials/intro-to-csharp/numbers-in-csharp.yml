@@ -167,8 +167,8 @@ items:
 - title: Work with the double type
   durationInMinutes: 5
   content: |
-    The `double` numeric type represents a double-precision floating point
-    number. Those terms may be new to you. A **floating point** number is
+    The `double` numeric type represents a [[double-precision floating point
+    number]](https://en.wikipedia.org/wiki/Double-precision_floating-point_format). Those terms may be new to you. A **floating point** number is
     useful to represent non-integral numbers that may be very large or small
     in magnitude. **Double-precision** is a relative term that describes the 
     numbers of binary digits used to store the value. **Double precision**
